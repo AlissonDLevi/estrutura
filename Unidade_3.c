@@ -73,4 +73,4 @@ float media;
   media = (float) dtotal/ (float) contador;
   printf(" maior = %f \n menor = %f \n media = %f \n total = %f \n",maior,menor,media, dtotal);
   
-}
+}//teste 
