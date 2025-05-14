@@ -55,7 +55,7 @@ noRaiz criarArvore(Aluno A) {
   raiz->esq = 0;
   return raiz;
 }
-
+//texte
 void inOrdemInt(noRaiz raiz) {
   if (raiz != 0) {
     inOrdemInt(raiz->esq);
